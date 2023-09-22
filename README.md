@@ -1,4 +1,4 @@
-[! [Header](https://github.com/ruokolainen/ruokolainen/blob/main/assets/header.gif)](https://github.com/ruokolainen/ruokolainen/tree/main#%D0%BF%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE)
+ [![Header](https://github.com/ruokolainen/ruokolainen/blob/main/assets/header.gif)](https://github.com/ruokolainen/ruokolainen/tree/main#%D0%BF%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE)
 
 ## О себе
 
